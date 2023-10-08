@@ -1,7 +1,7 @@
 <h1 align="center">QuboScanner Py</h1>
 <h3 align="center">Quboscanner Py is an easy way to use quboscanner on windows or linux deskstop</h3>
 
-- Install: [QuboScannerPy](https://github.com/orthasiaaa/quboscanner-Py)
+- Install: [QuboScannerPy])
 
 - Requirements **Java 19 and Python**
   
