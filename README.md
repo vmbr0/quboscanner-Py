@@ -1,2 +1,2 @@
-# quboscanner-Py
+# Quboscanner-Py
 QuboScanner Py
